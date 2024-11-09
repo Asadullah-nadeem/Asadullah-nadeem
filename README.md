@@ -8,12 +8,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=androidstudio,aws,git,kubernetes,docker,java,jenkins" />
+     <img src="https://skillicons.dev/icons?i=ktor,kotlin,java,bash" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=kafka,linux,kotlin,ktor,bash,bitbucket,cloudflare,eclipse,nginx,sublime,windows,yarn,stackoverflow,graphql,bootstrap,elasticsearch,bots" />
+     <img src="https://skillicons.dev/icons?i=kafka,linux,androidstudio,aws,git,kubernetes,docker,jenkins,bitbucket,cloudflare,eclipse,nginx,sublime,windows,yarn,stackoverflow,graphql,bootstrap,elasticsearch,bots" />
   </a>
 </p>
 <p align="center">
