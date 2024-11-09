@@ -19,8 +19,3 @@
      <img src="https://skillicons.dev/icons?i=firebase,gcp,githubactions,hibernate,idea,md,maven,mysql" />
   </a>
 </p>
-
-
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullah-nadeem&" alt="asadullah-nadeem" /></p>
-</div>
