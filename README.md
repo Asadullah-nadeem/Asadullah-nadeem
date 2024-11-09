@@ -13,12 +13,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=kafka,linux,androidstudio,aws,git,kubernetes,docker,jenkins,bitbucket,cloudflare,eclipse,nginx,sublime,windows,yarn,stackoverflow,graphql,bootstrap,elasticsearch,bots" />
+     <img src="https://skillicons.dev/icons?i=kafka,linux,androidstudio,aws,git,kubernetes,docker,jenkins,bitbucket,cloudflare,eclipse,nginx,sublime,windows,yarn,stackoverflow,graphql,bootstrap,elasticsearch,bots,rabbitmq,redis,replit,spring,sqlite,vscode,notion,postgres,postman,powershell" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=firebase,gcp,githubactions,hibernate,idea,md,maven,mysql,notion,postgres,postman,powershell,rabbitmq,redis,replit,spring,sqlite,vscode" />
+     <img src="https://skillicons.dev/icons?i=firebase,gcp,githubactions,hibernate,idea,md,maven,mysql" />
   </a>
 </p>
 
