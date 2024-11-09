@@ -3,17 +3,11 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=ktor,kotlin,java,bash,androidstudio" />
-  </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=kafka,linux,aws,git,kubernetes,docker,jenkins,bitbucket,cloudflare,eclipse,nginx,sublime,windows,yarn,stackoverflow,graphql,bootstrap,elasticsearch,bots,rabbitmq,redis,replit,spring,sqlite,vscode,notion,postgres,postman,powershell,idea" />
-  </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=firebase,gcp,githubactions,hibernate,md,maven,mysql" />
-  </a>
 </p>
