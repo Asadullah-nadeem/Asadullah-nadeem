@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asadullah Nadeem</h1>
 <h3 align="center">Sarala Birla University | Java, Kotlin & SQL | Backend & Android Developer | Always Learning and Improving in Backend & Android Development</h3>
 
-<p align="center">
-<img src="https://git.codeaxe.co.in/index.php?username=asadullah-nadeem" />
-</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=ktor,kotlin,java,bash" />
