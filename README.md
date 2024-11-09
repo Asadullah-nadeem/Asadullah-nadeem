@@ -2,9 +2,7 @@
 <h3 align="center">Sarala Birla University | Java, Kotlin & SQL | Backend & Android Developer | Always Learning and Improving in Backend & Android Development</h3>
 
 <p align="center">
-    <a href="https://git.codeaxe.co.in">
-        <img src="https://git.codeaxe.co.in/?username=asadullah-nadeem" />
-    </a>
+    <img src="https://git.codeaxe.co.in/index.php?username=asadullah-nadeem" />
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
