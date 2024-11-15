@@ -1,14 +1,33 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asadullah Nadeem</h1>
 <h3 align="center">Sarala Birla University | Java, Kotlin & SQL | Backend & Android Developer | Always Learning and Improving in Backend & Android Development</h3>
 
+<!-- <h1 align="center">Programming languages</h1> -->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,bash,js" />
+</p>
 
+ <!-- <h1 align="center">Development tools</h1> -->
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=ktor,kotlin,java,bash,js,androidstudio,html,nodejs,npm" />
+    <img src="https://skillicons.dev/icons?i=ktor,androidstudio,nodejs,html,npm,maven" />
 </p>
+
+<!-- <h1 align="center">Infrastructure and deployment</h1> -->
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=kafka,linux,aws,git,kubernetes,docker,jenkins,bitbucket,cloudflare,eclipse,nginx,sublime,windows,yarn,stackoverflow,graphql,bootstrap,elasticsearch,bots,rabbitmq,redis,replit,spring,sqlite,vscode,notion,postgres,postman,powershell,idea" />
+    <img src="https://skillicons.dev/icons?i=linux,kubernetes,aws,docker,nginx,jenkins,git,cloudflare,bitbucket" />
 </p>
+
+<!-- <h1 align="center">Databases and frameworks</h1> -->
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=firebase,gcp,githubactions,hibernate,md,maven,mysql,notion" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,rabbitmq,elasticsearch,kafka,spring" />
 </p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asadullah-nadeem&show_icons=true&locale=en&layout=compact" alt="Asadullah-nadeem" /></p> -->
+
+<!-- <h1 align="center">Additional tools and services</h1> -->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=githubactions,firebase,gcp,hibernate,mysql,notion,postman,powershell" />
+</p>
+
+
+<!-- <h1 align="center">Miscellaneous tools </h1> -->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,bootstrap,eclipse,sublime,stackoverflow,replit,yarn,graphql,md,windows,bots" />
+</p>
