@@ -8,7 +8,8 @@
 
  <!-- <h1 align="center">Development tools</h1> -->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ktor,androidstudio,nodejs,html,npm,maven" />
+<!--     <img src="https://skillicons.dev/icons?i=ktor,androidstudio,nodejs,html,npm,maven" /> -->
+    <img src="https://skillicons.dev/icons?i=ktor,androidstudio,html,maven" /> 
 </p>
 
 <!-- <h1 align="center">Infrastructure and deployment</h1> -->
