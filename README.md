@@ -3,13 +3,13 @@
 
 <!-- <h1 align="center">Programming languages</h1> -->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,bash,js" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,bash,js,ktor,androidstudio,html,maven" />
 </p>
 
  <!-- <h1 align="center">Development tools</h1> -->
 <p align="center">
 <!--     <img src="https://skillicons.dev/icons?i=ktor,androidstudio,nodejs,html,npm,maven" /> -->
-    <img src="https://skillicons.dev/icons?i=ktor,androidstudio,html,maven" /> 
+<!--     <img src="https://skillicons.dev/icons?i=ktor,androidstudio,html,maven" />  -->
 </p>
 
 <!-- <h1 align="center">Infrastructure and deployment</h1> -->
