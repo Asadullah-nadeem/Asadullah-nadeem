@@ -1,6 +1,5 @@
  <h1 align="center">Hi 👋, I'm Muhammad Asadullah Nadeem</h1> 
 <h3 align="center">Small daily improvements lead to extraordinary lifelong transformations.</h3> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asadullah-nadeem&label=Profile%20views&color=0e75b6&style=flat" alt="asadullah-nadeem" /> </p>
 
 
 <p align="center">
@@ -101,6 +100,7 @@
             />
           </a>
         </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asadullah-nadeem&label=Profile%20views&color=0e75b6&style=flat" alt="asadullah-nadeem" /> </p>
 
 
 <!-- <h1 align="center">Programming languages</h1> -->
