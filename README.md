@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Muhammad Asadullah Nadeem</h1> -->
+<h1 align="center">Hi 👋, I'm Muhammad Asadullah Nadeem</h1>
 <!-- <h3 align="center">Small daily improvements lead to extraordinary lifelong transformations.</h3>  -->
 
 
