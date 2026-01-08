@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asadullah Nadeem</h1>
 <h3 align="center">Backend-focused Developer | PHP • Laravel • Android</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asadullah-nadeem&label=Profile%20views&color=0e75b6&style=flat" alt="asadullah-nadeem" />
-</p>
+</p> -->
 
 <!-- ===================== ABOUT ===================== -->
 <p align="center">
@@ -31,7 +31,7 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
 <h2 align="center">Backend & Frameworks</h2>
 <p align="center" style="max-width: 85%; margin: auto;">
   <img 
-    src="https://skillicons.dev/icons?i=spring,hibernate,laravel,nodejs,ktor" 
+    src="https://skillicons.dev/icons?i=spring,hibernate,laravel,nodejs" 
     alt="Backend Frameworks"
     style="width: 100%; max-width: 700px;"
   />
@@ -39,15 +39,16 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
 
 ---
 
-<!-- ===================== MOBILE & FRONTEND ===================== -->
-<h2 align="center">Mobile & Frontend</h2>
+<!-- ===================== MOBILE & Cross Platform ===================== -->
+<h2 align="center">Mobile & Cross Platform</h2>
 <p align="center" style="max-width: 85%; margin: auto;">
   <img 
-    src="https://skillicons.dev/icons?i=androidstudio,bootstrap" 
+    src="https://skillicons.dev/icons?i=androidstudio,react,flutter" 
     alt="Mobile & Frontend"
-    style="width: 100%; max-width: 600px;"
+    style="width: 100%; max-width: 650px;"
   />
 </p>
+
 
 ---
 
@@ -55,11 +56,12 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
 <h2 align="center">Databases & Messaging</h2>
 <p align="center" style="max-width: 85%; margin: auto;">
   <img 
-    src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,rabbitmq,kafka" 
+    src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,rabbitmq,kafka,elasticsearch" 
     alt="Databases"
-    style="width: 100%; max-width: 700px;"
+    style="width: 100%; max-width: 850px;"
   />
 </p>
+
 
 ---
 
@@ -67,11 +69,12 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
 <h2 align="center">DevOps & Infrastructure</h2>
 <p align="center" style="max-width: 85%; margin: auto;">
   <img 
-    src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,nginx,jenkins,cloudflare,git,githubactions" 
+    src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,nginx,jenkins,prometheus,grafana,cloudflare,git,githubactions" 
     alt="DevOps & Infrastructure"
-    style="width: 100%; max-width: 800px;"
+    style="width: 100%; max-width: 900px;"
   />
 </p>
+
 
 ---
 
@@ -79,11 +82,13 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
 <h2 align="center">Tools & Utilities</h2>
 <p align="center" style="max-width: 85%; margin: auto;">
   <img 
-    src="https://skillicons.dev/icons?i=idea,vscode,postman,notion,maven,npm,powershell,windows" 
+    src="https://skillicons.dev/icons?i=idea,phpstorm,webstorm,vscode,postman,notion,maven,npm,powershell,windows" 
     alt="Tools"
-    style="width: 100%; max-width: 700px;"
+    style="width: 100%; max-width: 800px;"
   />
 </p>
+
+
 
 
 <!-- <h3 align="center">Small daily improvements lead to extraordinary lifelong transformations.</h3>  -->
