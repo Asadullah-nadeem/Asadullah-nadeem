@@ -1,4 +1,97 @@
+<!-- <h1 align="center">Hi 👋, I'm Muhammad Asadullah Nadeem</h1> -->
+<!-- ===================== PROFILE HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Muhammad Asadullah Nadeem</h1>
+<h3 align="center">Backend-focused Developer | PHP • Laravel • Android</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asadullah-nadeem&label=Profile%20views&color=0e75b6&style=flat" alt="asadullah-nadeem" />
+</p>
+
+<!-- ===================== ABOUT ===================== -->
+<p align="center">
+I build scalable backend systems, Android applications, and clean APIs.<br/>
+Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
+</p>
+
+---
+
+<!-- ===================== PROGRAMMING LANGUAGES ===================== -->
+<h2 align="center">Programming Languages</h2>
+<p align="center" style="max-width: 85%; margin: auto;">
+  <img 
+    src="https://skillicons.dev/icons?i=java,kotlin,php,js,bash,html" 
+    alt="Programming Languages"
+    style="width: 100%; max-width: 700px;"
+  />
+</p>
+
+---
+
+<!-- ===================== BACKEND & FRAMEWORKS ===================== -->
+<h2 align="center">Backend & Frameworks</h2>
+<p align="center" style="max-width: 85%; margin: auto;">
+  <img 
+    src="https://skillicons.dev/icons?i=spring,hibernate,laravel,nodejs,ktor" 
+    alt="Backend Frameworks"
+    style="width: 100%; max-width: 700px;"
+  />
+</p>
+
+---
+
+<!-- ===================== MOBILE & FRONTEND ===================== -->
+<h2 align="center">Mobile & Frontend</h2>
+<p align="center" style="max-width: 85%; margin: auto;">
+  <img 
+    src="https://skillicons.dev/icons?i=androidstudio,bootstrap" 
+    alt="Mobile & Frontend"
+    style="width: 100%; max-width: 600px;"
+  />
+</p>
+
+---
+
+<!-- ===================== DATABASES ===================== -->
+<h2 align="center">Databases & Messaging</h2>
+<p align="center" style="max-width: 85%; margin: auto;">
+  <img 
+    src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,rabbitmq,kafka" 
+    alt="Databases"
+    style="width: 100%; max-width: 700px;"
+  />
+</p>
+
+---
+
+<!-- ===================== DEVOPS & INFRA ===================== -->
+<h2 align="center">DevOps & Infrastructure</h2>
+<p align="center" style="max-width: 85%; margin: auto;">
+  <img 
+    src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,nginx,jenkins,cloudflare,git,githubactions" 
+    alt="DevOps & Infrastructure"
+    style="width: 100%; max-width: 800px;"
+  />
+</p>
+
+---
+
+<!-- ===================== TOOLS ===================== -->
+<h2 align="center">Tools & Utilities</h2>
+<p align="center" style="max-width: 85%; margin: auto;">
+  <img 
+    src="https://skillicons.dev/icons?i=idea,vscode,postman,notion,maven,npm,powershell,windows" 
+    alt="Tools"
+    style="width: 100%; max-width: 700px;"
+  />
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+ Always learning • Building practical systems • Open-source friendly
+</p>
+
 <!-- <h3 align="center">Small daily improvements lead to extraordinary lifelong transformations.</h3>  -->
 
 
