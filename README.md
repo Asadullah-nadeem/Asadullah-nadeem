@@ -85,12 +85,6 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
   />
 </p>
 
----
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
- Always learning • Building practical systems • Open-source friendly
-</p>
 
 <!-- <h3 align="center">Small daily improvements lead to extraordinary lifelong transformations.</h3>  -->
 
