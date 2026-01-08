@@ -8,10 +8,10 @@
 </p> -->
 
 <!-- ===================== ABOUT ===================== -->
-<p align="center">
+<!-- <p align="center">
 I build scalable backend systems, Android applications, and clean APIs.<br/>
 Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
-</p>
+</p> -->
 
 ---
 
