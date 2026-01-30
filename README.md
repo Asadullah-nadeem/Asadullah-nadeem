@@ -15,7 +15,7 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
 </p> -->
 <p align="center" style="max-width: 85%; margin: auto;">
   <img
-    src="https://skillicons.dev/icons?i=java,kotlin,php,js,ts,bash,html,css,tailwind,spring,hibernate,laravel,symfony,nodejs,express,nestjs,androidstudio,react,nextjs,flutter,mysql,postgres,sqlite,mongodb,redis,graphql,rabbitmq,kafka,elasticsearch,linux,docker,kubernetes,dynamodb,aws,azure,gcp,nginx,jenkins,prometheus,grafana,cloudflare,git,github,githubactions,gitlab,terraform,idea,phpstorm,webstorm,vscode,eclipse,postman,notion,maven,gradle,npm,yarn,powershell,windows,ubuntu,debian,cassandra,codepen,coffeescript,cypress,dart,fastapi,jquery,linkedin,prisma,supabase,svg,threejs,vim,webpack,yarn,vue,neovim,vercel,md,electron,bots,deno,bitbucket,babel,arch,"
+    src="https://skillicons.dev/icons?i=java,kotlin,go,php,js,ts,bash,html,css,tailwind,spring,hibernate,laravel,symfony,nodejs,express,nestjs,androidstudio,gradle,react,nextjs,angular,astro,pnpm,yarn,vite,flutter,mysql,postgres,sqlite,mongodb,redis,graphql,rabbitmq,kafka,elasticsearch,linux,docker,kubernetes,dynamodb,aws,azure,gcp,nginx,jenkins,prometheus,grafana,cloudflare,git,github,githubactions,gitlab,gatsby,terraform,idea,phpstorm,webstorm,vscode,eclipse,postman,notion,maven,gradle,npm,yarn,powershell,windows,ubuntu,debian,cassandra,codepen,coffeescript,cypress,dart,fastapi,jquery,linkedin,prisma,supabase,svg,threejs,vim,webpack,yarn,vue,neovim,vercel,md,electron,bots,deno,bitbucket,babel,bsd,arch,ubuntu,redhat,mint,kali,appwrite"
     alt="Tech Stack"
     style="width: 100%; max-width: 1000px;"
   />
