@@ -19,7 +19,38 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
     alt="Tech Stack"
     style="width: 100%; max-width: 1000px;"
   />
-  <!-- <p align="center"><img src="https://ik.imagekit.io/sFDkasdjo3i8/XenoPHP/xeno.png?updatedAt=1770380458240" width="400" alt="XenoPHP Framework Logo"></p> -->
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Asadullah-nadeem\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
+
+</p>
+
+<p align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Asadullah-nadeem\&show_icons=true\&theme=radical)
+
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Asadullah-nadeem&theme=radical"
+    alt="GitHub Streak"
+    width="1000"
+  />
+</p>
+
+<p align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-nadeem\&theme=react-dark)
+
+</p>
+
+
 
 </p>
 
