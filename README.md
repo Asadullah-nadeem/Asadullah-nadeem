@@ -25,29 +25,14 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
 ---
 
 <p align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Asadullah-nadeem\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
-
-</p>
-
-<p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Asadullah-nadeem\&show_icons=true\&theme=radical)
-
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Asadullah-nadeem&theme=radical"
-    alt="GitHub Streak"
-    width="1000"
+    height="180"
   />
-</p>
-
-<p align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-nadeem\&theme=react-dark)
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-nadeem&theme=react-dark"
+    height="180"
+  />
 </p>
 
 
