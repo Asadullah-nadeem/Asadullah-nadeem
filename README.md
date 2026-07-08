@@ -28,14 +28,14 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
 
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Asadullah-nadeem&theme=radical"
     height="100"
-  />
-  <img
+  /> -->
+  <!-- <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Asadullah-nadeem&theme=react-dark"
     height="100"
-  />
+  /> -->
 </p>
 
 
