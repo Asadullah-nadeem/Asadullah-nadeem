@@ -13,16 +13,18 @@
 I build scalable backend systems, Android applications, and clean APIs.<br/>
 Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
 </p> -->
-<p align="center" style="max-width: 85%; margin: auto;">
+<!-- <p align="center" style="max-width: 85%; margin: auto;">
   <img
     src="https://skillicons.dev/icons?i=java,kotlin,go,perl,php,c,cpp,lua,js,ts,bash,html,css,tailwind,spring,hibernate,laravel,symfony,nodejs,express,nestjs,androidstudio,gradle,react,nextjs,angular,astro,pnpm,yarn,vite,flutter,mysql,postgres,sqlite,mongodb,redis,graphql,rabbitmq,kafka,elasticsearch,linux,docker,kubernetes,dynamodb,aws,azure,gcp,nginx,jenkins,prometheus,grafana,cloudflare,git,github,githubactions,gitlab,gatsby,terraform,idea,phpstorm,webstorm,vscode,eclipse,postman,notion,maven,gradle,npm,yarn,powershell,windows,ubuntu,debian,cassandra,codepen,coffeescript,cypress,dart,fastapi,jquery,linkedin,prisma,supabase,svg,threejs,vim,webpack,yarn,vue,neovim,matlab,vercel,md,electron,bots,deno,blender,bitbucket,babel,bsd,arch,ubuntu,redhat,mint,kali,appwrite,arduino"
     alt="Tech Stack"
     style="width: 100%; max-width: 1000px;"
   />
 
+</p> -->
+<p align="center" style="max-width: 80%; margin: auto;">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,bash,androidstudio,nodejs,ts,js,maven,postgres,sqlite,redis,rabbitmq,elasticsearch,kafka,spring,linux,kubernetes,aws,docker,nginx,jenkins,git,cloudflare,bitbucket" alt="Programming Languages" style="width: 100%; max-width: 600px;" />
 </p>
 
----
 
 <p align="center">
   <img
