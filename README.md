@@ -21,6 +21,7 @@ Focused on <b>Java, Spring Boot, Laravel</b> and practical real-world solutions.
   />
 
 </p> -->
+<h1 align="center">Hi 👋, I'm Muhammad Asadullah Nadeem</h1>
 <p align="center" style="max-width: 80%; margin: auto;">
     <img src="https://skillicons.dev/icons?i=kotlin,java,bash,androidstudio,nodejs,ts,js,maven,postgres,sqlite,redis,rabbitmq,elasticsearch,kafka,spring,linux,kubernetes,aws,docker,nginx,jenkins,git,cloudflare,bitbucket" alt="Programming Languages" style="width: 100%; max-width: 600px;" />
 </p>
