@@ -5,7 +5,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asadullah-nadeem&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-
 <p align="center">
   <strong>Software Engineer • Backend Developer • Android Developer • Cloud & Distributed Systems</strong>
 </p>
@@ -22,6 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/>
   </a>
 </p>
+
 
 ##  About Me
 
