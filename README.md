@@ -14,11 +14,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Asadullah-nadeem/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub"/>
+  <a href="https://github.com/Asadullah-nadeem">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
-  <a href="https://www.linkedin.com/Asadullah-nadeem/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/Asadullah-nadeem/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
