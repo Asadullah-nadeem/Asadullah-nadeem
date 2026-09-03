@@ -53,6 +53,7 @@ I enjoy working on projects where software needs to go beyond simply "working" â
 
 ## Technology Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,bash,androidstudio,nodejs,ts,js,maven,postgres,mysql,redis,rabbitmq,elasticsearch,kafka,spring,linux,kubernetes,aws,docker,nginx,jenkins,git,cloudflare,bitbucket" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,hibernate,bash,androidstudio,nodejs,nextjs,ts,js,maven,jquery,php,symfony,laravel,htmx,mysql,postgres,sqlite,redis,rabbitmq,elasticsearch,kafka,spring,linux,ubuntu,kali,arch,debian,kubernetes,aws,docker,nginx,jenkins,git,graphql,grafana,gitlab,cloudflare,bitbucket,heroku,neovim,postman" alt="Technology Stack"/>
 </p>
+
 
