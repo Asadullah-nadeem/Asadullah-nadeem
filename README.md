@@ -33,7 +33,6 @@
 
 I'm **Muhammad Asadullah Nadeem**, a software engineer focused on designing and developing reliable, scalable, and maintainable software systems.
 My primary interests include **backend engineering, Android development, distributed systems, cloud infrastructure, databases, APIs, and system architecture**.
-I enjoy working on projects where software needs to go beyond simply "working" — focusing on **performance, scalability, security, reliability, observability, and clean architecture**.
 
 ### What I Work On
 
