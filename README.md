@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="http://asadullah.website/" target="_blank">
-    Visit my Profile Human and Machine 
+    Visit my Profile
   </a>
 </p>
 <p align="center">
